@@ -5,7 +5,7 @@ import Navbar from "../components/navbar";
 
 const Cart = () => {
   return (
-    <><Navbar /><div>
+    <><div>
       <div className="bg-gray-200 w-full px-4 sm:px-10 lg:px-40 pt-10 pb-16 h-auto text-custom-purple">
         <h1 className="text-2xl sm:text-3xl text-center lg:text-left">
           Your Shopping Cart
